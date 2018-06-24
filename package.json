@@ -1,0 +1,37 @@
+{
+    "name": "dhe-ext-pack",
+    "displayName": "dhe-ext-pack",
+    "description": "extensions for my dev environment",
+    "version": "0.0.1",
+    "publisher": "dhe",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "peterjausovec.vscode-docker",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "redhat.java",
+        "vscjava.vscode-maven",
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-java-debug",
+        "ms-python.python",
+        "dbaeumer.vscode-eslint",
+        "eg2.tslint",
+        "CoenraadS.bracket-pair-colorizer",
+        "christian-kohler.path-intellisense",
+        "steoates.autoimport",
+        "oderwat.indent-rainbow",
+        "esbenp.prettier-vscode",
+        "christian-kohler.npm-intellisense",
+        "davidanson.vscode-markdownlint",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "WallabyJs.quokka-vscode",
+        "wakatime.vscode-wakatime",
+        "octref.vetur",
+        "msjsdiag.debugger-for-chrome"
+    ]
+}
